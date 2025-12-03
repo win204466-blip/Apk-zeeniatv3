@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Primary Colors - Modern Indigo -->
+    <color name="primary">#6366F1</color>
+    <color name="primary_dark">#4F46E5</color>
+    <color name="primary_light">#818CF8</color>
+    <color name="primary_variant">#4338CA</color>
+    <color name="accent">#22D3EE</color>
+    <color name="accent_variant">#06B6D4</color>
+    
+    <!-- Secondary Colors - Modern Purple -->
+    <color name="secondary">#8B5CF6</color>
+    <color name="secondary_dark">#7C3AED</color>
+    <color name="secondary_light">#A78BFA</color>
+    
+    <!-- Background Colors - Light Mode -->
+    <color name="background_light">#F8FAFC</color>
+    <color name="background_dark">#0F172A</color>
+    <color name="surface_light">#FFFFFF</color>
+    <color name="surface_dark">#1E293B</color>
+    <color name="surface_elevated_light">#FFFFFF</color>
+    <color name="surface_elevated_dark">#334155</color>
+    
+    <!-- Semantic Colors (light mode defaults) -->
+    <color name="surface_color">@color/surface_light</color>
+    <color name="surface_elevated">@color/surface_elevated_light</color>
+    <color name="background_color">@color/background_light</color>
+    <color name="text_primary">@color/text_primary_light</color>
+    <color name="text_secondary">@color/text_secondary_light</color>
+    <color name="text_hint">@color/text_hint_light</color>
+    <color name="divider_color">#E2E8F0</color>
+    <color name="card_stroke">@color/card_stroke_light</color>
+    
+    <!-- Text Colors -->
+    <color name="text_primary_light">#0F172A</color>
+    <color name="text_primary_dark">#F8FAFC</color>
+    <color name="text_secondary_light">#475569</color>
+    <color name="text_secondary_dark">#CBD5E1</color>
+    <color name="text_hint_light">#94A3B8</color>
+    <color name="text_hint_dark">#64748B</color>
+    
+    <!-- Card Colors -->
+    <color name="card_stroke_light">#E2E8F0</color>
+    <color name="card_stroke_dark">#334155</color>
+    <color name="card_background_light">#FFFFFF</color>
+    <color name="card_background_dark">#1E293B</color>
+    
+    <!-- Status Colors -->
+    <color name="success">#22C55E</color>
+    <color name="success_light">#4ADE80</color>
+    <color name="warning">#F59E0B</color>
+    <color name="warning_light">#FBBF24</color>
+    <color name="error">#EF4444</color>
+    <color name="error_light">#F87171</color>
+    
+    <!-- Container Colors - Light Mode -->
+    <color name="success_container">#DCFCE7</color>
+    <color name="warning_container">#FEF3C7</color>
+    <color name="error_container">#FEE2E2</color>
+    <color name="primary_container">#E0E7FF</color>
+    <color name="on_primary_container">#3730A3</color>
+    
+    <!-- Indicator Colors -->
+    <color name="indicator_inactive">#CBD5E1</color>
+    <color name="indicator_active">@color/primary</color>
+    
+    <!-- Ripple Colors -->
+    <color name="ripple_primary">#206366F1</color>
+    <color name="ripple_light">#20000000</color>
+    <color name="ripple_dark">#20FFFFFF</color>
+    
+    <!-- Bubble Colors -->
+    <color name="bubble_bg">#6366F1</color>
+    <color name="bubble_border">#818CF8</color>
+    <color name="bubble_gradient_start">#6366F1</color>
+    <color name="bubble_gradient_center">#8B5CF6</color>
+    <color name="bubble_gradient_end">#4F46E5</color>
+    <color name="bubble_shadow">#406366F1</color>
+    
+    <!-- Menu Colors -->
+    <color name="menu_background_light">#FFFFFF</color>
+    <color name="menu_background_dark">#1E293B</color>
+    <color name="menu_item_hover">#F1F5F9</color>
+    
+    <!-- Gradient Colors -->
+    <color name="gradient_primary_start">#6366F1</color>
+    <color name="gradient_primary_end">#8B5CF6</color>
+    <color name="gradient_accent_start">#22D3EE</color>
+    <color name="gradient_accent_end">#06B6D4</color>
+    
+    <!-- App Colors for Popular Apps -->
+    <color name="app_whatsapp">#25D366</color>
+    <color name="app_tiktok">#000000</color>
+    <color name="app_instagram">#E1306C</color>
+    <color name="app_youtube">#FF0000</color>
+    <color name="app_twitter">#1DA1F2</color>
+    <color name="app_telegram">#0088CC</color>
+    <color name="app_facebook">#1877F2</color>
+    <color name="app_spotify">#1DB954</color>
+</resources>
