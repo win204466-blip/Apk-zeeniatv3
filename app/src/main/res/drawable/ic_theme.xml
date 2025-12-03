@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="120dp"
+    android:height="120dp"
+    android:viewportWidth="120"
+    android:viewportHeight="120">
+    
+    <path
+        android:fillColor="@color/primary"
+        android:pathData="M60,20 A40,40 0 1,1 60,100 A40,40 0 1,1 60,20"/>
+    
+    <path
+        android:fillColor="@color/primary_dark"
+        android:pathData="M60,20 A40,40 0 0,1 60,100 L60,20 Z"/>
+    
+    <!-- Sun (circle as path) -->
+    <path
+        android:fillColor="#FFD700"
+        android:pathData="M45,40 a10,10 0 1,0 0.01,0 z"/>
+    
+    <!-- Moon (circle as path) -->
+    <path
+        android:fillColor="#C0C0C0"
+        android:pathData="M75,42 a8,8 0 1,0 0.01,0 z"/>
+</vector>
