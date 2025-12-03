@@ -169,6 +169,7 @@ class FloatBubbleService : Service() {
                 } catch (e: Exception) {
                     Log.w(TAG, "Error removing bubble view: ${e.message}")
                 }
+                Unit
             }
             bubbleView = null
             bubbleParams = null
@@ -181,6 +182,7 @@ class FloatBubbleService : Service() {
                 } catch (e: Exception) {
                     Log.w(TAG, "Error removing menu view: ${e.message}")
                 }
+                Unit
             }
             menuView = null
             isMenuVisible = false
