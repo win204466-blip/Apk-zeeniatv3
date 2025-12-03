@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Floatify</string>
+    <string name="app_subtitle">Multitasking untuk Semua Ponsel</string>
+    <string name="tagline">Multitasking untuk Semua Ponsel</string>
+    
+    <!-- Onboarding -->
+    <string name="onboarding_title_1">Selamat Datang di Floatify</string>
+    <string name="onboarding_desc_1">Jalankan beberapa aplikasi sekaligus dengan bubble mengambang dan kumpulkan semua notifikasi di satu tempat</string>
+    
+    <string name="onboarding_title_2">Izin yang Diperlukan</string>
+    <string name="onboarding_desc_2">Floatify membutuhkan izin untuk menampilkan bubble di atas aplikasi lain dan membaca notifikasi</string>
+    
+    <string name="onboarding_title_3">Pilih Tema</string>
+    <string name="onboarding_desc_3">Pilih tema yang cocok dengan gaya Anda</string>
+    
+    <string name="btn_next">Lanjut</string>
+    <string name="btn_skip">Lewati</string>
+    <string name="btn_start">Mulai</string>
+    <string name="btn_grant_permission">Berikan Izin</string>
+    <string name="btn_grant_notification_access">Izin Akses Notifikasi</string>
+    
+    <!-- Theme -->
+    <string name="theme_label">Tema</string>
+    <string name="theme_auto">Otomatis</string>
+    <string name="theme_light">Terang</string>
+    <string name="theme_dark">Gelap</string>
+    
+    <!-- Dashboard -->
+    <string name="dashboard_title">Dashboard</string>
+    <string name="select_apps">Pilih Aplikasi</string>
+    <string name="settings">Pengaturan</string>
+    <string name="bubble_active">Bubble Aktif</string>
+    <string name="bubble_inactive">Bubble Nonaktif</string>
+    <string name="activate_bubble">Aktifkan Bubble</string>
+    <string name="deactivate_bubble">Nonaktifkan Bubble</string>
+    <string name="app_count_placeholder">Pilih aplikasi untuk ditampilkan di bubble</string>
+    <string name="app_count_format">%d aplikasi dipilih</string>
+    <string name="all_apps_available">%d aplikasi tersedia</string>
+    
+    <!-- Notification Listener -->
+    <string name="notification_listener">Penangkap Notifikasi</string>
+    <string name="notification_listener_desc">Kumpulkan notifikasi dari WA, TikTok, dll</string>
+    <string name="notification_listener_active">Aktif</string>
+    <string name="notification_listener_inactive">Nonaktif</string>
+    <string name="notification_access">Akses Notifikasi</string>
+    <string name="notification_access_desc">Izinkan Floatify membaca notifikasi dari aplikasi lain</string>
+    <string name="notification_count_format">%d notifikasi</string>
+    <string name="no_notifications">Belum ada notifikasi</string>
+    <string name="notifications_title">Notifikasi</string>
+    <string name="clear_all">Hapus Semua</string>
+    <string name="notification_access_required">Akses notifikasi diperlukan</string>
+    <string name="tap_to_enable">Ketuk untuk mengaktifkan</string>
+    
+    <!-- Bubble Menu -->
+    <string name="quick_apps">Aplikasi Cepat</string>
+    <string name="close_menu">Tutup</string>
+    <string name="open_app">Buka</string>
+    <string name="no_apps_selected">Belum ada aplikasi dipilih</string>
+    <string name="tab_apps">Aplikasi</string>
+    <string name="tab_notifications">Notifikasi</string>
+    
+    <!-- Notification -->
+    <string name="notification_channel_name">Floatify Service</string>
+    <string name="notification_channel_desc">Notifikasi untuk bubble mengambang</string>
+    <string name="notification_title">Floatify Aktif</string>
+    <string name="notification_text">Bubble siap digunakan</string>
+    
+    <!-- Permissions -->
+    <string name="permission_overlay">Tampilkan di atas aplikasi lain</string>
+    <string name="permission_notification">Notifikasi</string>
+    <string name="permission_notification_access">Akses Notifikasi</string>
+    <string name="permission_notification_access_desc">Untuk menangkap notifikasi dari aplikasi lain</string>
+    <string name="permission_granted">Diberikan</string>
+    <string name="permission_denied">Belum diberikan</string>
+    
+    <!-- Feature Descriptions -->
+    <string name="feature_bubble">Bubble Mengambang</string>
+    <string name="feature_window">Jendela Mini</string>
+    <string name="feature_light">Super Ringan</string>
+    <string name="feature_notification">Penangkap Notifikasi</string>
+    
+    <!-- Errors -->
+    <string name="error_no_permission">Izin diperlukan untuk menampilkan bubble</string>
+    <string name="error_service_failed">Gagal memulai layanan bubble</string>
+</resources>
