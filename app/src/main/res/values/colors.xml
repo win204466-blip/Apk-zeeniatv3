@@ -87,6 +87,17 @@
     <color name="gradient_primary_end">#8B5CF6</color>
     <color name="gradient_accent_start">#22D3EE</color>
     <color name="gradient_accent_end">#06B6D4</color>
+    <color name="gradient_start">#6366F1</color>
+    <color name="gradient_middle">#8B5CF6</color>
+    <color name="gradient_end">#4F46E5</color>
+    <color name="header_gradient_start">#6366F1</color>
+    <color name="header_gradient_end">#8B5CF6</color>
+    
+    <!-- Switch Colors -->
+    <color name="switch_thumb_on">#6366F1</color>
+    <color name="switch_thumb_off">#94A3B8</color>
+    <color name="switch_track_on">#818CF8</color>
+    <color name="switch_track_off">#CBD5E1</color>
     
     <!-- App Colors for Popular Apps -->
     <color name="app_whatsapp">#25D366</color>
